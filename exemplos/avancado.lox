@@ -1,0 +1,24 @@
+fun buscaMaior(lista) {
+    var maior = lista[0];
+    for (var i = 1; i < lista.length; i = i + 1) {
+        if (lista[i] > maior and lista[i] != 0) {
+            maior = lista[i];
+        }
+    }
+    return maior;
+    print "código morto!";
+}
+
+fun verificaNum(x) {
+    if (x > 0) {
+        print "Positivo";
+    } else if (x < 0 or x == -10) {
+        return -1;
+        print "Nunca executa"; // código morto
+    } else {
+        print "Zero";
+    }
+    while (x < 10) {
+        x = x + 1;
+    }
+}

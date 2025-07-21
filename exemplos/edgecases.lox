@@ -1,0 +1,24 @@
+fun somenteBase() {
+    return 42;
+    print "morto";
+}
+
+fun comentarios() {
+    // if deve ser ignorado
+    print "if não conta";
+    var texto = "if for while and or";
+}
+
+fun aninhado(x) {
+    if (x > 10) {
+        if (x < 100) {
+            print x;
+        }
+    }
+    while (x > 0) {
+        for (var i = 0; i < x; i = i + 1) {
+            print i;
+        }
+        x = x - 1;
+    }
+}

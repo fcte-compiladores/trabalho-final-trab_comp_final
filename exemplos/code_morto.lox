@@ -1,0 +1,5 @@
+fun test() {
+    print "início";
+    return 42;
+    print "nunca executa";
+}
