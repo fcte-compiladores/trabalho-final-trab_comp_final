@@ -140,13 +140,6 @@ fun fatorial(n) {
 - Crafting Interpreters (Bob Nystrom)
 - Documentação do Python (regex, matplotlib)
 
-## Autor
-
-Letícia Kellen Ramos Paiva  
-Disciplina: Compiladores  
-Professor: Fábio Macêdo Mendes  
-Universidade: Universidade de Brasília
-
-````
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Hppw7Zh2)
+
